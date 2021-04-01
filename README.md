@@ -11,3 +11,5 @@
 4) Sorunsuz bir şekilde indiyse sırada CMD'yi yönetici olarak çalıştırıp şu kodu yazıyoruz. `npm init -y` işlem bittiğinde ise `npm i quick.db` bu kodu yazıyoruz.
 
   🎉 Artık bilgisayarımıza quick.db inmiş oldu 🎉
+
+Eğer bir sorunla karşılaşırsanız Discord kullanıcı adım : `Hercy 🍁#6930` ID'im : `756421339635515464`
